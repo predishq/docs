@@ -4,3 +4,5 @@
 #### Contents:
 
 * [Installing Predis library](INSTALL.md)
+* [Commands](Commands)
+    * [Hashes](Commands/Hashes.md)

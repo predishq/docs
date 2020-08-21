@@ -1,0 +1,3 @@
+# Commands:
+
+* [Hashes](Hashes.md)
